@@ -1,0 +1,14 @@
+{
+  "name": "cog1_js_template",
+  "version": "1.0.0",
+  "description": "Computergrafik 1",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d . -b master --repo https://github.com/<hier username eintragen>/<hier username eintragen>.github.io"
+  },
+  "author": "Hicham Naoufal",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
